@@ -12,7 +12,7 @@ public class LevelManager {
 
     public LevelManager(Context cont){
         context = cont;
-        mp = MediaPlayer.create(context, R.raw.wide_walking);
+        mp = MediaPlayer.create(context, R.raw.song);
 
     }
 
